@@ -1,0 +1,17 @@
+[Boat]
+IK_Slash=(Action=EzMarkClosest)
+
+[Combat]
+IK_Slash=(Action=EzMarkClosest)
+
+[Diving]
+IK_Slash=(Action=EzMarkClosest)
+
+[Exploration]
+IK_Slash=(Action=EzMarkClosest)
+
+[Horse]
+IK_Slash=(Action=EzMarkClosest)
+
+[Swimming]
+IK_Slash=(Action=EzMarkClosest)
